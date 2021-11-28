@@ -1,2 +1,2 @@
 # Analog_clock
-Simple Analog clock using HTML,CSS and Javascript
+Simple needle run Analog clock using HTML,CSS and Javascript
